@@ -1,6 +1,6 @@
 - hey hey hey, i’m @k4bii, jakobi or kobi, for short!
 - interested in full stack development / ui/ux / data science
-- currently: studying CS with an emphasis in software development
+- currently: senior at NIU studying CS with an emphasis in software development
 - he/him
 - email me at jakobimc574@gmail.com
 
